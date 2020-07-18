@@ -1,4 +1,4 @@
-![thumbnail photo](./thumbnail.svg)
+![thumbnail photo](https://raw.githubusercontent.com/Thesoreon/thesoreon/master/thumbnail.svg)
 
 <!--
 **Thesoreon/thesoreon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
