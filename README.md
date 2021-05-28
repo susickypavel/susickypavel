@@ -1,1 +1,1 @@
-![thumbnail photo](https://raw.githubusercontent.com/Thesoreon/thesoreon/master/assets/thumbnail.png)
+![thumbnail photo](https://raw.githubusercontent.com/Thesoreon/thesoreon/master/assets/cover-photo.png)
