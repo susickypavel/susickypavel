@@ -1,1 +1,3 @@
-![thumbnail photo](https://raw.githubusercontent.com/Thesoreon/thesoreon/master/assets/cover-photo/cover-photo.png)
+- [LinkedIn](https://www.linkedin.com/in/susickypavel)
+- [Figma](https://www.figma.com/@susickypavel)
+- [Twitter](https://twitter.com/susickypavel)
