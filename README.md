@@ -9,3 +9,10 @@
     </a>
   </p>
 </p>
+
+Ahoj! 👋 I'm Pavel, a front-end developer with extensive experience in back-end development and DevOps.
+I work with a broad range of tools. Let's name a few to get an image of what I do:
+
+- Front-end (React, Vue, Svelte, Solid.js)
+- Back-end (TypeScript, C#)
+- DevOps (Docker)
